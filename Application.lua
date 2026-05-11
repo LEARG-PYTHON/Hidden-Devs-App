@@ -248,5 +248,3 @@ Players.PlayerAdded:Connect(function(player)
 		refreshPlayerPet(player)
 	end)
 end)
-ai_studio_code (2).txt
-Displaying ai_studio_code (2).txt.
